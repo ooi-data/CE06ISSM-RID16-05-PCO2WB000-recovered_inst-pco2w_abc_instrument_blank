@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-RID16-05-PCO2WB000-recovered_inst-pco2w_abc_instrument_blank
 data_stream: CE06ISSM-RID16-05-PCO2WB000-recovered_inst-pco2w_abc_instrument_blank
 end_date: '2021-04-01T05:00:52.000Z'
-last_updated: '2021-07-20T01:25:33.822504'
-start_date: '2014-10-07T19:45:00.000Z'
-status: success
+last_updated: '2021-09-18T04:01:33.739417Z'
+start_date: '2015-04-11T18:36:27.000Z'
+status: pending
